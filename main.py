@@ -3,8 +3,8 @@ import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "9b88e9efe93e4e08bb3cfb1f170adb50"
-CLIENT_SECRET = "43028c76062244a28d9822accc7c8fbf"
+CLIENT_ID = [YOUR CLIENT ID]
+CLIENT_SECRET = [YOUR CLIENT SECRET]
 
 # Get the date from the user
 date = input("Which year do you want to travel to? Type the date in this format YYYY-MM-DD: ")
